@@ -37,16 +37,16 @@ Algorithms Explained:
 How to Run the Project Locally:
 
 1. Clone the repository:
-  git clone https://github.com/your-username/sorting-visualizer.git
-  cd sorting-visualizer
+  * git clone https://github.com/your-username/sorting-visualizer.git
+  * cd sorting-visualizer
 
-2. Install dependencies:
-   npm install
+3. Install dependencies:
+   * npm install
 
-3. Run the app locally:
-   npm start
+4. Run the app locally:
+   * npm start
 
-4. Visit the app in your browser at http://localhost:3000
+5. Visit the app in your browser at http://localhost:3000
 
 Live Demo:
 Check out the live demo of the Sorting Visualizer: [Sorting Visualizer](https://sortingvisualizeraishasinha.netlify.app/) 
